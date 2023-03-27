@@ -1,0 +1,6 @@
+public class main{
+   public void static (string args[]{
+   system.out.println("new coflict")
+   }
+   }
+   

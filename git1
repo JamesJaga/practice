@@ -1,7 +1,7 @@
 public main class{
     public static void main(string args[]{
     //DevA updates for Hello world
-    system.out.println("modified on local")
+    system.out.println("modified git1 in remote")
     }
     }
 
